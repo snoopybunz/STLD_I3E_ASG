@@ -1,7 +1,7 @@
 ReadMe
 
 Game Overview
-Welcome to Stellar Voyager! This document provides detailed instructions on how to use and run the application, including key controls, platform requirements, known limitations, references, and an answer key to the game puzzles.
+Welcome to Stellar Voyager! Certainly! Join AX-7, your dedicated mission assistant, on an extraordinary journey as you explore an uncharted planet after a sudden crash landing. As the captain of the spaceship *Stellar Voyager*, you must navigate through unknown terrains and face various challenges to find the three rare Energy Gems. These gems are crucial to revive your spaceship's engine and continue your critical mission, which was abruptly halted by a violent meteor shower. Embrace the adventure, overcome the obstacles, and lead your crew to success! This document provides detailed instructions on how to use and run the application, including key controls, platform requirements, known limitations, references, and an answer key to the game puzzles.
 
 Key Controls
 - Move: Use the WASD keys to move your character around.
